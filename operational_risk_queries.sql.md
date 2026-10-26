@@ -777,32 +777,3 @@ The findings are illustrative and do not represent actual bank risk exposures.
 
 
 
-
-
-
-
-
-CV:
-
-Operational Risk and Loss Analysis — SQL Project
-
-
-
-Built a sample operational risk event database using SQL.
-
-
-
-Analysed financial losses by risk category, event date, and status.
-
-
-
-Identified high-loss events and outstanding loss exposure using filtering, aggregation, and subqueries.
-
-
-
-Performed basic data quality checks and prepared management-oriented risk summaries.
-
-
-
-
-
